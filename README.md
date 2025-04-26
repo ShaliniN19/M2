@@ -12,8 +12,10 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 7.	Continue the loop until you have iterated through all numbers from M to N.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 091158](https://github.com/user-attachments/assets/2d9909db-1255-45b0-b25f-3703edfcb5e2)
 
 ## OUTPUT:
+![Screenshot 2025-04-26 091204](https://github.com/user-attachments/assets/e3375522-5fa6-4fce-86da-693e70979065)
 
 
 
@@ -45,9 +47,11 @@ Write a C program to print the given triangular pattern using loop.
 5.	Continue the loop until you have printed the entire triangular pattern.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 091552](https://github.com/user-attachments/assets/36f58084-5299-4736-8c57-0fa693c273b4)
 
 
 ## OUTPUT:
+![Screenshot 2025-04-26 091600](https://github.com/user-attachments/assets/82e7b1b9-fcc5-4c9f-9b97-fd9970edd69b)
 
 
 
@@ -74,9 +78,11 @@ Write a C program to perform addition and subtraction of two numbers using funct
 4.	Call the addition and subtraction functions, passing the two numbers as arguments.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 091843](https://github.com/user-attachments/assets/592ffa14-fe20-4994-8cae-6ff3a3cb12c6)
 
 
 ## OUTPUT:
+![Screenshot 2025-04-26 091847](https://github.com/user-attachments/assets/70ad10af-f412-413a-ab3e-a42132a9a6b7)
 
 
 
@@ -106,10 +112,12 @@ Write a c program to find the sum of odd digits using for loop
 6.	Print the sum of odd digits.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 092154](https://github.com/user-attachments/assets/e434dd3b-032b-44ac-b6ac-36e48b08a292)
 
 
 ## OUTPUT:
 
+![Screenshot 2025-04-26 092158](https://github.com/user-attachments/assets/24608679-4d28-4c81-b26a-e2a3ef457675)
 
 
 
@@ -136,9 +144,13 @@ d.	After the loop, print the factorial value.
 5.	End
 
 ## PROGRAM:
+![Screenshot 2025-04-26 092557](https://github.com/user-attachments/assets/113d95a0-0854-4321-8a86-0d3c4e5aa803)
 
 
 ## OUTPUT:
+
+![Screenshot 2025-04-26 092603](https://github.com/user-attachments/assets/8858ed3f-2856-48de-96d4-d66616dd9d3b)
+
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
